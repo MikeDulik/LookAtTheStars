@@ -20,13 +20,18 @@
         <!--Sidebar content-->
 
         Search: <input ng-model="query">
-
+        Sort by:
+        <select ng-model="orderProp">
+          <option value="name">Alphabetical</option>
+          <option value="distance">Closest Distance</option>
+          <option value="-distance">Farthest Distance</option>
+        </select>
       </div>
       <div class = "col-md-10">
         <!--Body content-->
 
         <ul class="stars">
-          <li ng-repeat="star in stars | filter:query">
+          <li ng-repeat="star in stars | filter:query | orderBy:orderProp">
             <span>{{star.name}}</span>
             <p>{{star.snippet}}</p>
           </li>
