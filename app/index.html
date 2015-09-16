@@ -33,7 +33,7 @@
         <ul class="stars">
           <li ng-repeat="star in stars | filter:query | orderBy:orderProp">
             <span>{{star.name}}</span>
-            <p>{{star.distance}}</p>
+            <p>Approximately {{star.distance}} light years from our Sun.</p>
             <p>{{star.snippet}}</p>
           </li>
         </ul>

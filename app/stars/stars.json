@@ -1,6 +1,6 @@
 [
   {
-    "distance": 0.0000158128,
+    "distance": 0.0,
     "id": "sun",
     "imageUrl": "img/stars/sun.jpg",
     "name": "Sun",
@@ -21,7 +21,7 @@
     "snippet": "Betelgeuse, also known by its Bayer designation Alpha Orionis, is the ninth-brightest star in the night sky and second-brightest in the constellation of Orion."
   },
   {
-    "distance": 204,
+    "distance": 204.0,
     "id": "r-doradus",
     "imageUrl": "img/stars/doradus.jpg",
     "name": "R Doradus",
