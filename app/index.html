@@ -11,7 +11,7 @@
   <script src="../lib/angular-route/angular-route.js"></script>
   <script src="js/app.js"></script>
   <script src="js/controllers.js"></script>
-</head>
+  </head>
 <body ng-controller="StarListCtrl">
 
   <div class="container-fluid">
@@ -33,7 +33,7 @@
         <ul class="stars">
           <li ng-repeat="star in stars | filter:query | orderBy:orderProp">
             <span>{{star.name}}</span>
-            <p>{{star.snippet}}</p>
+            <p>{{star.distance}}</p>
           </li>
         </ul>
 

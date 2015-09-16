@@ -1,0 +1,14 @@
+[
+  {
+    "distance": 0.0000158128,
+    "id": "the-sun",
+    "imageUrl": "img/stars/sun.jpg",
+    "name": "Sun",
+  },
+  {
+    "distance": 16.77,
+    "id": "altair",
+    "imageUrl": "img/stars/altair.jpg",
+    "name": "Altair",
+  }
+]
