@@ -53,13 +53,13 @@
     "id": "regulus",
     "imageUrl": "img/stars/regulus.jpg",
     "name": "Regulus (Alpha Leonis A)",
-    "snippet": "Regulus is the brightest star in the constellation Leo and one of the brightest stars in the night sky, lying approximately 79 light years from Earth. Regulus is a multiple star system composed of four stars that are organized into two pairs."
+    "snippet": "Regulus is the brightest star in the constellation Leo and one of the brightest stars in the night sky. Regulus is a multiple star system composed of four stars that are organized into two pairs."
   },
   {
     "distance": 93.0,
     "id": "algol",
     "imageUrl": "img/stars/algol.jpg",
     "name": "Algol (Beta Persei ABC)",
-    "snippet": "Algol, known colloquially as the Demon Star, is a bright star in the constellation Perseus. It is one of the best known eclipsing binaries, the first such star to be discovered, and also one of the first (non-nova) variable stars to be discovered."
+    "snippet": "Algol, known colloquially as the Demon Star, is a bright star in the constellation Perseus. It is one of the best known eclipsing binaries, the first such star to be discovered."
   }
 ]
