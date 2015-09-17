@@ -51,6 +51,10 @@ ul.star-thumbs img {
   padding: 1em;
 }
 
+ul.star-thumbs img:hover {
+  cursor: pointer;
+}
+
 ul.specs {
   clear: both;
   margin: 0;
