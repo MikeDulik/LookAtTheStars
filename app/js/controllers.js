@@ -18,7 +18,11 @@ starsControllers.controller('StarListCtrl', ['$scope', '$http',
 //   function($scope, $routeParams, $http){
 //     $http.get('stars/' + $routeParams.starId + '.json').success(function(data) {
 //       $scope.star = data;
+//       $scope.mainImageUrl = data.images[0];
 //     });
+//     $scope.setImage = function(imageUrl) {
+//       $scope.mainImageUrl = imageUrl;
+//     };
 //   }
 // ]);
 
@@ -38,4 +42,8 @@ starsControllers.controller('StarDetailCtrl', function($scope){
       "img/stars/sun3.jpg"
     ]
   }
+  $scope.mainImageUrl = $scope.star.images[0];
+  $scope.setImage = function(imageUrl) {
+      $scope.mainImageUrl = imageUrl;
+  };
 });
