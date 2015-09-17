@@ -1,6 +1,9 @@
 # LookAtTheStars
 
-1) Set up basic angular template
-2) Gather some info for hard-coded .json and build it
-3) Implement $http.get with local .json
-4) Look into 3rd party API
+User Stories:
+  A user should be able to look through a list of stars.
+  A user should be able to filter the list of stars with a search.
+  A user should be able to change the order of the stars based on an ordering property.
+  A user should be able to view a detailed page of each listed star.
+
+  
