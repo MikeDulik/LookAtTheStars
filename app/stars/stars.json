@@ -61,5 +61,12 @@
     "imageUrl": "img/stars/algol.jpg",
     "name": "Algol (Beta Persei ABC)",
     "snippet": "Algol, known colloquially as the Demon Star, is a bright star in the constellation Perseus. It is one of the best known eclipsing binaries, the first such star to be discovered."
+  },
+  {
+    "distance": 11,
+    "id": "matt-damon",
+    "imageUrl": "img/stars/damon5.png",
+    "name": "Matt Damon",
+    "snippet": "Matthew Paige 'Matt' Damon (born October 8, 1970) is an American actor, screenwriter and producer. He is a star."
   }
 ]

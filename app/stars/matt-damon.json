@@ -1,0 +1,16 @@
+{
+  "star": "Matt Damon",
+  "angularDiameter": "11 Oceans",
+  "radius": "12 Oceans",
+  "distance": "13 Oceans",
+  "imager": "Any Lucky Camera",
+  "info": "Matthew Paige 'Matt' Damon (born October 8, 1970) is an American actor, screenwriter and producer. Damon and Ben Affleck wrote an Academy Award-winning screenplay, Good Will Hunting (1997), for which he also received a number of Best Actor nominations. He is among Forbes magazine's most bankable stars and one of the top-40 highest-grossing actors of all time. In addition to the many awards and nominations Damon has received, such as Academy, Golden Globe and other industry awards, for his work in the film industry in 2007, Damon received a star on the Hollywood Walk of Fame and was named the Sexiest Man Alive by People magazine.",
+  "images": [
+    "img/stars/damon.jpg",
+    "img/stars/damon1.jpg",
+    "img/stars/damon2.jpg",
+    "img/stars/damon3.jpg",
+    "img/stars/damon4.jpg",
+    "img/stars/damon5.png"
+  ]
+}
