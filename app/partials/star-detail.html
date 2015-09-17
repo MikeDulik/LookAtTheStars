@@ -1,1 +1,29 @@
-TBD yo =)
+<img ng-src="{{star.images[0]}}" class="star">
+
+<h1>{{star.star}}</h1>
+
+<p>{{star.info}}</p>
+
+<ul class="star-thumbs">
+  <li ng-repeat="img in star.images">
+    <img ng-src="{{img}}">
+  </li>
+</ul>
+
+<ul class="specs">
+  <li>
+    <span>Star Specs</span>
+    <dl>
+      <dt>Name</dt>
+      <dd>{{star.star}}</dd>
+      <dt>Angular Diameter</dt>
+      <dd>{{star.angularDiameter}}</dd>
+      <dt>Radius (relative to the sun)</dt>
+      <dd>{{star.radius}}</dd>
+      <dt>Distance</dt>
+      <dd>{{star.distance}}</dd>
+      <dt>Imager</dt>
+      <dd>{{star.imager}}</dd>
+    </dl>
+  </li>
+</ul>
