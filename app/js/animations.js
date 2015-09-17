@@ -1,4 +1,4 @@
-angular.module('starsAnimations', ['ngAnimate']);
+var starsAnimations = angular.module('starsAnimations', ['ngAnimate']);
 
 starsAnimations.animation('.star', function() {
 
