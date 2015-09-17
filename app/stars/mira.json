@@ -1,0 +1,14 @@
+{
+  "star": "Mira (Omicron Ceti)",
+  "angularDiameter": "50 milliarcseconds",
+  "radius": "up to 700",
+  "distance": "420 light-years",
+  "imager": "Hubble",
+  "info": "Mira (also known as Omicron Ceti) is a red giant star estimated 200–400 light years away in the constellation Cetus. Mira is a binary star, consisting of the red giant Mira A along with Mira B. Mira A is also an oscillating variable star and was the first non-supernova variable star discovered, with the possible exception of Algol. Mira is the brightest periodic variable in the sky that is not visible to the naked eye for part of its cycle. Its distance is uncertain; pre-Hipparcos estimates centered on 220 light-years; while Hipparcos data from the 2007 reduction suggest a distance of 299 light-years, with a margin of error of 11%.",
+  "images": [
+    "img/stars/mira.jpg",
+    "img/stars/mira1.png",
+    "img/stars/mira2.jpg",
+    "img/stars/mira3.jpg"
+  ]
+}

@@ -1,6 +1,7 @@
 var starsApp = angular.module('starsApp', [
   'ngRoute',
   'starsControllers'
+  // 'starsServices'
 ]);
 
 starsApp.config(['$routeProvider',

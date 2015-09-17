@@ -1,0 +1,14 @@
+{
+  "star": "Betelgeuse",
+  "angularDiameter": "50 milliarcseconds",
+  "radius": "630",
+  "distance": "643 ± 146 ly",
+  "imager": "Aperture Masking Interferometry, Hubble",
+  "info": "Betelgeuse, also known by its Bayer designation Alpha Orionis, is the ninth-brightest star in the night sky and second-brightest in the constellation of Orion. Distinctly reddish, it is a semiregular variable star whose apparent magnitude varies between 0.2 and 1.2, the widest range of any first-magnitude star. Betelgeuse is one of three stars that make up the Winter Triangle, and it marks the center of the Winter Hexagon. The star's name is derived from the Arabic إبط الجوزاء Ibt al-Jauzā', meaning 'the hand of Orion'. The Arabic letter for Y (which has two dots) was misread as B (with one dot) by medieval translators, creating the initial B in Betelgeuse.",
+  "images": [
+    "img/stars/betelgeuse.jpg",
+    "img/stars/betelgeuse1.png",
+    "img/stars/betelgeuse2.jpg",
+    "img/stars/betelgeuse3.jpg"
+  ]
+}
