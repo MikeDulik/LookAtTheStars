@@ -5,6 +5,15 @@ body {
   background-color: lemonchiffon;
 }
 
+.star-images {
+  background-color: white;
+  width: 450px;
+  height: 450px;
+  overflow: hidden;
+  position: relative;
+  float: left;
+}
+
 .stars {
   list-style: none;
 }
@@ -26,13 +35,18 @@ body {
 /** Detail View **/
 img.star {
   float: left;
-  border: 1px solid black;
+  /*border: 1px solid black;*/
   margin-right: 3em;
   margin-bottom: 2em;
   background-color: white;
   padding: 2em;
   height: 400px;
   width: 400px;
+  display: none;
+}
+
+img.star:first-child {
+  display: block;
 }
 
 ul.star-thumbs {
@@ -82,27 +96,3 @@ ul.specs dt {
 h1 {
   border-bottom: 1px solid gray;
 }
-
-.star-images {
-  background-color: white;
-  width: 450px;
-  height: 450px;
-  overflow: hidden;
-  position: relative;
-  float: left;
-}
-
-img.star {
-  float: left;
-  margin-right: 3em;
-  margin-bottom: 2em;
-  background-color: white;
-  padding: 2em;
-  height: 400px;
-  width: 400px;
-  display: none;
-}
-
-img.star:first-child {
-  display: block;
-  }
