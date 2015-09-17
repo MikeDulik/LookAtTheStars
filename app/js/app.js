@@ -1,7 +1,8 @@
 var starsApp = angular.module('starsApp', [
   'ngRoute',
   'starsAnimations',
-  'starsControllers'
+  'starsControllers',
+  'firebase'
   // 'starsServices'
 ]);
 
