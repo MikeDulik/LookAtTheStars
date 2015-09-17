@@ -1,0 +1,14 @@
+{
+  "star": "Algol (Beta Persei ABC)",
+  "angularDiameter": "0.88 ± 0.05 milliarcseconds (A component); 1.12 ± 0.07 milliarcseconds (B component); 0.56 ± 0.10 milliarcseconds (C component)",
+  "radius": "4.13 (A component); 3 (B component); 0.9 (C component)",
+  "distance": "93 ± 2 light-years",
+  "imager": "MIRC instrument on the CHARA Array",
+  "info": "Algol, known colloquially as the Demon Star, is a bright star in the constellation Perseus. It is one of the best known eclipsing binaries, the first such star to be discovered, and also one of the first (non-nova) variable stars to be discovered. Algol is actually a three-star system in which the large and bright primary β Persei Aa1 is regularly eclipsed by the dimmer β Persei Aa2. Thus, Algol's magnitude is usually near-constant at 2.1, but regularly dips to 3.4 every 2 days, 20 hours and 49 minutes during the roughly 10-hour-long partial eclipses. There is also a secondary eclipse (the 'second minimum') when the brighter star occults the fainter secondary. This secondary eclipse can only be detected photoelectrically. Algol gives its name to its class of eclipsing variable, known as Algol variables.",
+  "images": [
+    "img/stars/algol.jpg",
+    "img/stars/algol1.png",
+    "img/stars/algol2.jpg",
+    "img/stars/algol3.jpg"
+  ]
+}

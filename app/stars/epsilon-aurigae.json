@@ -1,0 +1,13 @@
+{
+  "star": "Epsilon Aurigae",
+  "angularDiameter": "2.27 milliarcseconds (A component)",
+  "radius": "3.7 ± 0.7; 5.9 ± 0.1 (B component)",
+  "distance": "2000 light-years",
+  "imager": "MIRC instrument on the CHARA Array",
+  "info": "Epsilon Aurigae is the Bayer designation for a star in the northern constellation of Auriga. It is traditionally known as Almaaz, Haldus, or Al Anz. Epsilon Aurigae is an unusual eclipsing binary system comprising an F0 supergiant and a companion which is generally accepted to be a huge dark disk orbiting an unknown object, possibly a binary system of two small B-type stars. About every 27 years, Epsilon Aurigae's brightness drops from an apparent visual magnitude of +2.92 to +3.83. This dimming lasts 640–730 days. In addition to this eclipse, the system also has a low amplitude pulsation with a non-consistent period of around 66 days. The distance to the system is still a subject of debate, but modern estimates place it approximately 2,000 light years from Earth.",
+  "images": [
+    "img/stars/epsilon.jpg",
+    "img/stars/epsilon1.png",
+    "img/stars/epsilon2.jpg"
+  ]
+}

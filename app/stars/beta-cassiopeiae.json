@@ -1,0 +1,12 @@
+{
+  "star": "Beta Cassiopeiae",
+  "angularDiameter": "1.70 ± 0.04 milliarcseconds",
+  "radius": "3.8 ± 0.1",
+  "distance": "54.7 ± 0.3 light-years",
+  "imager": "MIRC instrument on the CHARA Array",
+  "info": "Beta Cassiopeiae is a Delta Scuti variable star in the constellation Cassiopeia. It is a subgiant or giant star belonging to the spectral class F2. The white star of second magnitude (+2.27 mag) has an absolute magnitude of +1.16 mag. It has the traditional name Caph, from the Arabic word كف kaf, 'palm' (i.e. reaching from the Pleiades), also known as Al Sanām al Nākah. Another Arabic name is al-Kaff al-Khadib.",
+  "images": [
+    "img/stars/beta.jpg",
+    "img/stars/beta1.png"
+  ]
+}
