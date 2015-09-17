@@ -15,7 +15,7 @@
       <!--Body content-->
 
       <ul class="stars">
-        <li ng-repeat="star in stars | filter:query | orderBy:orderProp" class="thumbnail">
+        <li ng-repeat="star in stars | filter:query | orderBy:orderProp" class="thumbnail star-listing">
           <a href="#/stars/{{star.id}}" class="thumb"><img ng-src="{{star.imageUrl}}"></a>
           <a href="#/stars/{{star.id}}">{{star.name}}</a>
           <p>{{star.snippet}}</p>

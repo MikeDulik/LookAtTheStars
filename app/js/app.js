@@ -1,5 +1,6 @@
 var starsApp = angular.module('starsApp', [
   'ngRoute',
+  'starsAnimations',
   'starsControllers'
   // 'starsServices'
 ]);
